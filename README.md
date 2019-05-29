@@ -3,4 +3,4 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 
 # Objective
-to predict chances of survival of a patient given his age,operation_year,posotive_lymph_nodes by Exploratory data analysis
+to predict chances of survival of a patient given his age,operation_year,posotive_lymph_nodes through Exploratory data analysis
